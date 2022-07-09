@@ -1,16 +1,12 @@
 # genotechies_app
 
-A new Flutter project.
+This app was created with my knowledge. Followed Github, Youtube and google.
 
-## Getting Started
+1. In the first page you can see the login UI with google sign in.  
+2. After that you can see the main UI "Our shops"  
 
-This project is a starting point for a Flutter application.
+I tried to add loading screen as you requested. But I'm not able to do it. But I have learned about splash screen loading.  
+Also I figure out when we are creating container we have to add it into column widget first.  
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Thank you
