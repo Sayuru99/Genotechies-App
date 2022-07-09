@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "770596894079",
+    "project_id": "genotechies-app-f13df",
+    "storage_bucket": "genotechies-app-f13df.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:770596894079:android:c1ae97f8e89c6df616964a",
+        "android_client_info": {
+          "package_name": "com.sayuru.genotechies_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "770596894079-v4j1i58lg4gq5t6iv9jd1u1gmad15a12.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXNUjTbrJYaboNiY_E4f93dtdBgb8-rg4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "770596894079-v4j1i58lg4gq5t6iv9jd1u1gmad15a12.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
